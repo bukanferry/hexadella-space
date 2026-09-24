@@ -39,7 +39,7 @@ To run Hexadella locally for development or auditing purposes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hexadella-space.git
+   git clone https://github.com/bukanferry/hexadella-space.git
    cd hexadella-space
    ```
 
